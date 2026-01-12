@@ -45,38 +45,9 @@ I focus on **clean architecture, performance optimization, and real-world proble
 - **Database:** PostgreSQL, MongoDB
 - **DevOps:** Docker, CI/CD, Linux
 - **Tools:** Git, GitHub, Postman
-
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?
-    username=DemonRahul&
-    show_icons=true&
-    theme=tokyonight&
-    hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?
-    user=DemonRahul&
-    theme=tokyonight&
-    hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?
-    username=DemonRahul&
-    layout=compact&
-    theme=tokyonight&
-    hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Auto-Updated)
-
+## 🐍 Contribution Snake 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DemonRahul/DemonRahul/output/snake.svg" alt="GitHub Contribution Snake" />
 </p>
