@@ -12,9 +12,9 @@
     lines=Hi+👋,+I'm+Rahul+Koriya;Full+Stack+Developer;Building+Scalable+Web+Apps;Open+Source+Enthusiast" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=DemonRahul&label=Profile%20Views&color=0e75b6&style=flat" />
-</p> -->
+</p>
 
 ---
 
@@ -23,10 +23,10 @@
 I am a **Full Stack Developer** with strong experience in building **scalable, high-performance web applications**.  
 I focus on **clean architecture, performance optimization, and real-world problem solving**.
 
-- 🔭 Currently working on **full-stack & backend-heavy projects**
+- 🔭 Working on **full-stack & backend-heavy projects**
 - 🌱 Learning **advanced system design & performance optimization**
 - ⚙️ Comfortable with **frontend, backend, databases, and APIs**
-- 💡 Passionate about **clean code & production-ready solutions**
+- 💡 Passionate about **clean code & production-ready systems**
 
 ---
 
@@ -52,7 +52,7 @@ I focus on **clean architecture, performance optimization, and real-world proble
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?
-    username=YOUR_USERNAME&
+    username=DemonRahul&
     show_icons=true&
     theme=tokyonight&
     hide_border=true" />
@@ -60,14 +60,14 @@ I focus on **clean architecture, performance optimization, and real-world proble
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?
-    user=YOUR_USERNAME&
+    user=DemonRahul&
     theme=tokyonight&
     hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?
-    username=YOUR_USERNAME&
+    username=DemonRahul&
     layout=compact&
     theme=tokyonight&
     hide_border=true" />
@@ -78,7 +78,7 @@ I focus on **clean architecture, performance optimization, and real-world proble
 ## 🐍 Contribution Snake (Auto-Updated)
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/DemonRahul/DemonRahul/output/snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
