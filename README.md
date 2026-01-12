@@ -12,9 +12,9 @@
     lines=Hi+👋,+I'm+Rahul+Koriya;Full+Stack+Developer;Building+Scalable+Web+Apps;Open+Source+Enthusiast" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DemonRahul&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 ---
 
