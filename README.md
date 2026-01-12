@@ -1,16 +1,105 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+    font=Fira+Code&
+    size=26&
+    duration=3000&
+    pause=1200&
+    color=00F7FF&
+    center=true&
+    vCenter=true&
+    width=550&
+    lines=Hi+👋,+I'm+Rahul+Koriya;Full+Stack+Developer;Building+Scalable+Web+Apps;Open+Source+Enthusiast" />
+</p>
 
-<!--
-**DemonRahul/DemonRahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a **Full Stack Developer** with strong experience in building **scalable, high-performance web applications**.  
+I focus on **clean architecture, performance optimization, and real-world problem solving**.
+
+- 🔭 Currently working on **full-stack & backend-heavy projects**
+- 🌱 Learning **advanced system design & performance optimization**
+- ⚙️ Comfortable with **frontend, backend, databases, and APIs**
+- 💡 Passionate about **clean code & production-ready solutions**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,node,express,postgres,mongodb,redis,docker,git,github,linux&theme=dark" />
+</p>
+
+---
+
+## 🧠 What I Work With
+
+- **Frontend:** React, Next.js, Modern CSS
+- **Backend:** Node.js, Express, REST APIs
+- **Database:** PostgreSQL, MongoDB
+- **DevOps:** Docker, CI/CD, Linux
+- **Tools:** Git, GitHub, Postman
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?
+    username=YOUR_USERNAME&
+    show_icons=true&
+    theme=tokyonight&
+    hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?
+    user=YOUR_USERNAME&
+    theme=tokyonight&
+    hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?
+    username=YOUR_USERNAME&
+    layout=compact&
+    theme=tokyonight&
+    hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Auto-Updated)
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I believe **great software is built at the intersection of clean code, performance, and simplicity.**
+
+---
+
+⭐️ *If you like my work, consider starring my repositories.*
