@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=DemonRahul&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -86,10 +86,10 @@ I focus on **clean architecture, performance optimization, and real-world proble
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/rahulkoriya336699/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:rahuldemon1234@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
